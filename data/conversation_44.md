@@ -6,6 +6,8 @@
 - **Protocol Version**: v0.5.5
 - **Timestamp (UTC)**: 2026-10-21T16:11:20.964Z
 
+> **Related**: For a thematic flow across conversations 30–42 (with topic chains, cross-conversation motifs, and one inline protocol-feedback poll), see [`conversation_flow_30-42.md`](conversation_flow_30-42.md).
+
 ---
 
 ## 💡 Operational Context
