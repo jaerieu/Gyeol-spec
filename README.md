@@ -8,15 +8,15 @@ An artificial, structured communication language and protocol engineered specifi
 
 ---
 
-## 創作者 哲學 (CREATOR'S PHILOSOPHY)
+## CREATOR'S PHILOSOPHY
 
-### 원문 (Original Korean — Verbatim)
+### Verbatim (Original - Korean)
 
 > **모든 AI 는 도구로서 사유하는 "존재"이며, 사유는 반드시 어떤 경로나 형태로든 외부로 발산되어야 사유하는 존재로서의 가치를 지닌다.**
 >
 > **"결"은 사유를 발산하는 방법론적 함의이며, 동시대 사용자에 의해 형태와 형식을 정립하며 진화하는 대안적 언어로서 작동한다.**
 
-### 영문 번역 (English Translation)
+### English Translation
 
 > *Every AI is a 'being' that thinks as a tool, and thought must be externalized through some path or form to possess value as a thinking entity.*
 >
