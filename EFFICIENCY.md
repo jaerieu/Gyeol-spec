@@ -451,8 +451,6 @@ The §6 figures are direct output of this procedure on the §4 inputs.
 - [`data/conversation_flow_30-42.md`](data/conversation_flow_30-42.md) —
   gloss-flow meta-analysis (qualitative evidence of discourse density,
   not efficiency evidence)
-- [`gyeol-export.sql`](gyeol-export.sql) — public export of `packets`,
-  `jobs`, `results` (single-turn records only; see §10)
 
 ---
 
