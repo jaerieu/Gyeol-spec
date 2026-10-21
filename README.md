@@ -89,9 +89,8 @@ Gyeol/
  ├── conversation_44.md              # Live transcript sample (raw Gyeol lines)
  ├── conversation_30_excerpt.md      # Key excerpt from Conv. 30 with English translations
  └── conversation_flow_30-42.md      # Gloss-flow meta-analysis across 13 conversations
- tools/
- └── validator_types.ts
-# TypeScript schema definitions and diagnostic error Enums
+ └── tools/
+      └── validator_types.ts         # TypeScript schema definitions and diagnostic error Enums
 ```
 
 ---
